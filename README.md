@@ -64,7 +64,9 @@ Developed by:Thiravia Raja Raghavan.G RegisterNumber:212224050055
 **Output/TIMING Waveform**
 ![image](https://github.com/user-attachments/assets/e0fa94ec-60fb-44b6-aefe-e533f1b6141e)
 
+
 ![image](https://github.com/user-attachments/assets/b6d60756-bda8-42b4-8074-3296d4daccca)
+
 
 
 **Result:**
